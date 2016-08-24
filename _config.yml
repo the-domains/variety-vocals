@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3978723
+  brandStrength: 0.1062667
+  lightness: 0.7191489
+  rhythmicContrast: 0.7914894
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.5382979
+name: 'Variety Vocals '
